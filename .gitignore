@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+*.pyc
+.txt
+.json
+.xlsx
+.lock
+log/
+userData/
